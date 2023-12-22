@@ -1,4 +1,4 @@
-# check if thala for a reason?
+# Check if thala for a reason?
 <br>
 This website enables the users to check is the enetred word is thala for a reason or not.
 <br>
