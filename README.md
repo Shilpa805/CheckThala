@@ -1,0 +1,1 @@
+#check if the entered word is thala for a reason
